@@ -4,10 +4,11 @@ Un blog para el curso de Git y Github en Platzi
 > - niñita
 
 ## En este curso veremos:
-*Todos los comandos de Git
-*El flujo de trabajo en Github
-*Buenas practicas
-*Trucos del profe
-*Personalidad del profe
+* Todos los comandos de Git
+* El flujo de trabajo en Github
+* Buenas practicas
+* Trucos del profe
+* Personalidad del profe
+* Creado por mi
 
 Y como recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo.
