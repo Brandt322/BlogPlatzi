@@ -11,4 +11,5 @@ Un blog para el curso de Git y Github en Platzi
 * Personalidad del profe
 * Creado por mi
 * Incluye ejemplos en windows
+* Actualmente disponible
 Y como recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo.
